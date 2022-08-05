@@ -4,9 +4,11 @@
 
 <details>
 <summary> 1. If you are Bobocode team member: </summary> 
-
-a. Go to Slack Java Ultimate 2022 workspace     
-b. Choose yourself, and send to yourself this message    
+  
+<br>
+ Go to Slack Java Ultimate 2022 workspace  
+<br>
+ Choose yourself, and send to yourself this message    
 ```
 bring-svydovets-token
 ```
