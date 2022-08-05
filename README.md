@@ -15,11 +15,17 @@ bring-svydovets-token
 </details>
 
 <details>
-<summary> 2. Contact us via email: </summary> 
+<summary> 2. Via email: </summary> 
 
 ```
 bring.svydovets.team@gmail.com
 ```
+  
+Send a message with empty title and include in body:
+```
+bring-svydovets-token
+```
+and in one minute you will get required tocken
 
 </details>
 
