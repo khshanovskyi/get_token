@@ -17,14 +17,22 @@ bring-svydovets-token
 <details>
 <summary> 2. Via email: </summary> 
 
+Send an email on:
+
 ```
 bring.svydovets.team@gmail.com
 ```
   
-Send a message with empty title and include in body:
+Title:
+```
+Provide me bring token
+```
+Body:
 ```
 bring-svydovets-token
 ```
+![Screenshot 2022-08-06 011347](https://user-images.githubusercontent.com/55089853/183218300-a2d2c65f-f909-4c9d-ab54-9006e6e33077.png)
+  
 and in one minute you will get required tocken
 
 </details>
