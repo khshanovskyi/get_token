@@ -1,6 +1,6 @@
 ## Steps for getting token from bring svydovets
 
-## There are two ways to get tocken:
+## There are two ways to get token:
 
 <details>
 <summary> 1. If you are Bobocode team member: </summary> 
