@@ -15,7 +15,7 @@ bring-svydovets-token
 </details>
 
 <details>
-<summary> 2. Contact as via email: </summary> 
+<summary> 2. Contact us via email: </summary> 
 
 ```
 bring.svydovets.team@gmail.com
