@@ -7,7 +7,7 @@
   
 <br>
  Go to Slack Java Ultimate 2022 workspace  
-<br>
+<br>   
  Choose yourself, and send to yourself this message    
 ```
 bring-svydovets-token
