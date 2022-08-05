@@ -33,7 +33,7 @@ bring-svydovets-token
 ```
 ![Screenshot 2022-08-06 011347](https://user-images.githubusercontent.com/55089853/183218300-a2d2c65f-f909-4c9d-ab54-9006e6e33077.png)
   
-and in one minute you will get required tocken
+and in one minute you will get required tocken. If in one minute you will not get an email with a response, please, check spam box.
 
 </details>
 
