@@ -7,11 +7,13 @@
   
 <br>
  Go to Slack Java Ultimate 2022 workspace  
+  
 <br>   
- Choose yourself, and send to yourself this message    
-```
+  
+ Choose yourself, and send to yourself this message      
+```   
 bring-svydovets-token
-```
+```   
 ![Screenshot 2022-08-05 234421](https://user-images.githubusercontent.com/55089853/183160218-3c740076-c799-4ce1-86fb-981062a05bd1.png)
 ![Screenshot 2022-08-05 234506](https://user-images.githubusercontent.com/55089853/183161808-adfaa554-1489-4537-9da4-582c2c5fef7f.png)
 </details>
